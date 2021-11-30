@@ -3,7 +3,7 @@ import { Form, Button } from 'react-bootstrap'
 import './First.css';
 const First = () => {
   return (
-    <div className="bck" style={{ marginBottom : "80px" }}>
+    <div className="bck" style={{ marginBottom : "50px",padding:"20px" }}>
      <Form className="container col-md-4" >
   <Form.Group className="mb-4" controlId="formBasicEmail">
     <Form.Label>Email address</Form.Label>

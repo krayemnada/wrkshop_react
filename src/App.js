@@ -6,7 +6,7 @@ import Footer from './components/Footer/Footer';
 import Second from './components/Second/Second';
 function App() {
   return (
-    <div className="App">
+    <div >
      <Header/>
      <First/>
      <Second/>

@@ -4,8 +4,8 @@ import "./Header.css";
 const Header = () => {
   return (
     <div>
-    <Navbar style={{ marginBottom : "80px" }} variant="dark" className="Nav">
-    <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+    <Navbar variant="dark" className="Nav">
+    <Navbar.Brand href="#home">Quizizz </Navbar.Brand>
     <Nav className="mr-auto">
       <Nav.Link href="#home">Home</Nav.Link>
       <Nav.Link href="#features">Features</Nav.Link>

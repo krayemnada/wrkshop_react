@@ -1,4 +1,9 @@
 .bck{
     background-image: url('https://campustechnology.com/-/media/EDU/CampusTechnology/Images/2017/09/20170906twt.jpg');
-    /* height: 100%; */
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+    /* border:5px solid red; */
+    box-sizing:border-box;
+    background-size:cover;
 }

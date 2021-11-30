@@ -4,7 +4,7 @@ import './Footer.css'
 
 const Footer = () => {
   return (
-    <div className='footer'>
+    <div className='footer' style={{marginTop:"30px"}}>
      <Card.Footer className="text"> CopyRight 2021</Card.Footer>
    
     </div>
